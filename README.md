@@ -15,6 +15,8 @@ Support operating system: Windows, Mac and Linux
 	All music files used by this document are downloaed from this link:
 	https://www.aigei.com/
 	Copyrght allowed to be used.
+
 ./Photos:  ----Picture files used by this game( .PNG and .JPG format)
 	Drawn by Xiaohan Zeng, all rights reserved.
+
 ./Font:  ----Font used in game( .TTF format). Copied from Mac system.
